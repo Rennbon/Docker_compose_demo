@@ -1,0 +1,11 @@
+/Users/zhubin/Projects/folder/bin/Debug/netcoreapp2.0/folder.deps.json
+/Users/zhubin/Projects/folder/bin/Debug/netcoreapp2.0/folder.runtimeconfig.json
+/Users/zhubin/Projects/folder/bin/Debug/netcoreapp2.0/folder.runtimeconfig.dev.json
+/Users/zhubin/Projects/folder/bin/Debug/netcoreapp2.0/folder.dll
+/Users/zhubin/Projects/folder/bin/Debug/netcoreapp2.0/folder.pdb
+/Users/zhubin/Projects/folder/obj/Debug/netcoreapp2.0/folder.csproj.CoreCompileInputs.cache
+/Users/zhubin/Projects/folder/obj/Debug/netcoreapp2.0/folder.AssemblyInfoInputs.cache
+/Users/zhubin/Projects/folder/obj/Debug/netcoreapp2.0/folder.AssemblyInfo.cs
+/Users/zhubin/Projects/folder/obj/Debug/netcoreapp2.0/folder.dll
+/Users/zhubin/Projects/folder/obj/Debug/netcoreapp2.0/folder.pdb
+/Users/zhubin/Projects/folder/obj/Debug/netcoreapp2.0/folder.csprojResolveAssemblyReference.cache

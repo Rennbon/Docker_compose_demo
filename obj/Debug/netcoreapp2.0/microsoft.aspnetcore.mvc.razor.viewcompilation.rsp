@@ -1,0 +1,5 @@
+/Users/zhubin/Projects/folder
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=folder
+--content-root=/Users/zhubin/Projects/folder
+--file=
