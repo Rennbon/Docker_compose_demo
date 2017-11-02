@@ -1,1 +1,2 @@
 # Docker_compose_demo
+docker-compose 启动2个webapi并用nginx反向代理
